@@ -1,6 +1,5 @@
 # resize-image-yolo
-This tool for resizing image for preparing dataset in training yolo 
-Alat ini digunakan untuk meresize image yang digunakan sebagai dataset pada training yolo
+This tool used for resizing image in preparing dataset in training yolo 
 
 ## HOW TO USE
 1. buat dua buah folder dengan nama "preprocess" dan "postprocess" #tanpa tanda petik, tulisan harus sama
