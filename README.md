@@ -9,6 +9,5 @@ Alat ini digunakan untuk meresize image yang digunakan sebagai dataset pada trai
 4. Hasil output ditaruh di folder postprocess dengan ekstensi.jpg
 
 # AUTHOR
-Firman Ardiyansyah
-Youtube : maping-id
-IG : @maping.id
+> Youtube : maping-id
+> IG : @maping.id
